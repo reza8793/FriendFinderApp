@@ -66,7 +66,6 @@ function diffMaker(x,y)
 
 function sumfunction(x)  {
 	var sum = x.reduce(add, 0);
-
 		function add(a, b) {
 	    return a + b;
 		}
